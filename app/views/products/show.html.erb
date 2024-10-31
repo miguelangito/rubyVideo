@@ -1,1 +1,6 @@
-<h1> <%= @product.title %> </h1>
+<h1 class="title"> <%= @product.title %> </h1>
+<h3 class="description"> <%= @product.description %> </h3>
+<h3 class="price"> <%= @product.price %> </h3>
+<h3> <%= @product.created_at %> </h3>
+
+<%puts(@product.created_at)%>

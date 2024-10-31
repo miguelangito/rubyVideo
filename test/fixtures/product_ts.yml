@@ -1,11 +1,16 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
-one:
-  title: MyString
-  description: MyText
-  price: 1
+ps4:
+  title: ps4
+  description: perfecto estado
+  price: 400
+  created_at: '2024-10-29 13:52:55 UTC' 
+  updated_at: '2024-10-29 13:52:55 UTC' 
 
-two:
-  title: MyString
-  description: MyText
-  price: 1
+pc:
+  title: macbook air pro
+  description: perfecto estado
+  price: 800
+  created_at: '2024-10-29 13:52:55 UTC' 
+  updated_at: '2024-10-29 13:52:55 UTCyy' 
+
